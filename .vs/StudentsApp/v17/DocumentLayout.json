@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\studentsapp.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\studentsapp.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|c:\\users\\mkari\\onedrive\\desktop\\.net projects\\mvc\\studentsapp\\studentsapp.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38060ABE-5C71-4489-B9F7-BF4796717F98}|StudentsApp.Web\\StudentsApp.Web.csproj|solutionrelative:studentsapp.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsApp.Web",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\StudentsApp.Web.csproj",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\StudentsApp.Web.csproj",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\StudentsApp.Web.csproj",
+              "RelativeToolTip": "StudentsApp.Web\\StudentsApp.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T16:22:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:53:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:53:44.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentsApp.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:53:41.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentsApp.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:53:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:05:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentsApp.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:53:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:53:50.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:40:40.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentsApp.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:29:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Mkari\\OneDrive\\Desktop\\.NET projects\\MVC\\StudentsApp\\StudentsApp.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsApp.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:13:27.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
